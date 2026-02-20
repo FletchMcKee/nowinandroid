@@ -3,5 +3,6 @@
   <ManuallySuppressedIssues/>
   <CurrentIssues>
     <ID>MaxLineLength:JvmUnitTestDemoAssetManager.kt:JvmUnitTestDemoAssetManager$*</ID>
+    <ID>TopLevelPropertyNaming:RetrofitNiaNetwork.kt:private const val NIA_BASE_URL = BuildConfig.BACKEND_URL</ID>
   </CurrentIssues>
 </SmellBaseline>

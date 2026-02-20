@@ -4,6 +4,11 @@
   <CurrentIssues>
     <ID>LongParameterList:SyncWorker.kt:SyncWorker</ID>
     <ID>MatchingDeclarationName:SyncInitializer.kt:Sync</ID>
+    <ID>TopLevelPropertyNaming:DelegatingWorker.kt:private const val WORKER_CLASS_NAME = "RouterWorkerDelegateClassName"</ID>
+    <ID>TopLevelPropertyNaming:SyncInitializer.kt:// This name should not be changed otherwise the app may have concurrent sync requests running internal const val SYNC_WORK_NAME = "SyncWorkName"</ID>
+    <ID>TopLevelPropertyNaming:SyncWorkHelpers.kt:const val SYNC_TOPIC = "sync"</ID>
+    <ID>TopLevelPropertyNaming:SyncWorkHelpers.kt:private const val SYNC_NOTIFICATION_CHANNEL_ID = "SyncNotificationChannel"</ID>
+    <ID>TopLevelPropertyNaming:SyncWorkHelpers.kt:private const val SYNC_NOTIFICATION_ID = 0</ID>
     <ID>UnnecessaryApply:SyncInitializer.kt:Sync$apply { // Run sync on app startup and ensure only one sync worker runs at any time enqueueUniqueWork( SYNC_WORK_NAME, ExistingWorkPolicy.KEEP, SyncWorker.startUpSyncWork(), ) }</ID>
     <ID>UseOrEmpty:DelegatingWorker.kt:DelegatingWorker$workerParams.inputData.getString(WORKER_CLASS_NAME) ?: ""</ID>
   </CurrentIssues>

@@ -2,15 +2,8 @@
 <SmellBaseline>
   <ManuallySuppressedIssues/>
   <CurrentIssues>
-    <ID>FunctionNaming:SettingsDialog.kt:@Composable fun SettingsDialog</ID>
-    <ID>FunctionNaming:SettingsDialog.kt:@Composable fun SettingsDialogThemeChooserRow</ID>
-    <ID>FunctionNaming:SettingsDialog.kt:@Composable private fun ColumnScope.SettingsPanel</ID>
-    <ID>FunctionNaming:SettingsDialog.kt:@Composable private fun SettingsDialogSectionTitle</ID>
-    <ID>FunctionNaming:SettingsDialog.kt:@OptIn(ExperimentalLayoutApi::class) @Composable private fun LinksPanel</ID>
-    <ID>FunctionNaming:SettingsDialog.kt:@Preview @Composable private fun PreviewSettingsDialog</ID>
-    <ID>FunctionNaming:SettingsDialog.kt:@Preview @Composable private fun PreviewSettingsDialogLoading</ID>
-    <ID>LongParameterList:SettingsDialog.kt:@Composable fun SettingsDialog</ID>
-    <ID>UnusedPrivateFunction:SettingsDialog.kt:@Preview @Composable private fun PreviewSettingsDialog</ID>
-    <ID>UnusedPrivateFunction:SettingsDialog.kt:@Preview @Composable private fun PreviewSettingsDialogLoading</ID>
+    <ID>TopLevelPropertyNaming:SettingsDialog.kt:private const val BRAND_GUIDELINES_URL = "https://developer.android.com/distribute/marketing-tools/brand-guidelines"</ID>
+    <ID>TopLevelPropertyNaming:SettingsDialog.kt:private const val FEEDBACK_URL = "https://goo.gle/nia-app-feedback"</ID>
+    <ID>TopLevelPropertyNaming:SettingsDialog.kt:private const val PRIVACY_POLICY_URL = "https://policies.google.com/privacy"</ID>
   </CurrentIssues>
 </SmellBaseline>

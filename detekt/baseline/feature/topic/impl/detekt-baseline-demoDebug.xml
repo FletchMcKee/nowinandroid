@@ -4,17 +4,8 @@
   <CurrentIssues>
     <ID>ForbiddenComment:TopicScreen.kt:// TODO: Could/should this be replaced with [LazyGridScope.newsFeed]?</ID>
     <ID>ForbiddenComment:TopicScreen.kt:// TODO: Show icon if available</ID>
-    <ID>FunctionNaming:TopicScreen.kt:@Composable fun TopicScreen</ID>
-    <ID>FunctionNaming:TopicScreen.kt:@Composable private fun TopicHeader</ID>
-    <ID>FunctionNaming:TopicScreen.kt:@Composable private fun TopicToolbar</ID>
-    <ID>FunctionNaming:TopicScreen.kt:@DevicePreviews @Composable fun TopicScreenLoading</ID>
-    <ID>FunctionNaming:TopicScreen.kt:@DevicePreviews @Composable fun TopicScreenPopulated</ID>
-    <ID>FunctionNaming:TopicScreen.kt:@Preview @Composable private fun TopicBodyPreview</ID>
-    <ID>FunctionNaming:TopicScreen.kt:@VisibleForTesting @Composable internal fun TopicScreen</ID>
     <ID>LongMethod:TopicScreen.kt:@VisibleForTesting @Composable internal fun TopicScreen</ID>
     <ID>LongParameterList:TopicScreen.kt:@VisibleForTesting @Composable internal fun TopicScreen</ID>
     <ID>LongParameterList:TopicScreen.kt:private fun LazyListScope.topicBody</ID>
-    <ID>MagicNumber:TopicViewModel.kt:TopicViewModel$5_000</ID>
-    <ID>UnusedPrivateFunction:TopicScreen.kt:@Preview @Composable private fun TopicBodyPreview</ID>
   </CurrentIssues>
 </SmellBaseline>

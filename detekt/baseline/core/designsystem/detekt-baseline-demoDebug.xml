@@ -11,137 +11,23 @@
     <ID>ForbiddenComment:IconButton.kt:NiaIconButtonDefaults$// TODO: File bug</ID>
     <ID>ForbiddenComment:Tag.kt:NiaTagDefaults$// TODO: File bug</ID>
     <ID>ForbiddenComment:ViewToggle.kt:NiaViewToggleDefaults$// TODO: File bug</ID>
-    <ID>FunctionNaming:AppScrollbars.kt:@Composable fun ScrollableState.DecorativeScrollbar</ID>
-    <ID>FunctionNaming:AppScrollbars.kt:@Composable fun ScrollableState.DraggableScrollbar</ID>
-    <ID>FunctionNaming:AppScrollbars.kt:@Composable private fun ScrollableState.DecorativeScrollbarThumb</ID>
-    <ID>FunctionNaming:AppScrollbars.kt:@Composable private fun ScrollableState.DraggableScrollbarThumb</ID>
-    <ID>FunctionNaming:Background.kt:@Composable fun NiaBackground</ID>
-    <ID>FunctionNaming:Background.kt:@Composable fun NiaGradientBackground</ID>
-    <ID>FunctionNaming:Background.kt:@ThemePreviews @Composable fun BackgroundAndroid</ID>
-    <ID>FunctionNaming:Background.kt:@ThemePreviews @Composable fun BackgroundDefault</ID>
-    <ID>FunctionNaming:Background.kt:@ThemePreviews @Composable fun BackgroundDynamic</ID>
-    <ID>FunctionNaming:Background.kt:@ThemePreviews @Composable fun GradientBackgroundAndroid</ID>
-    <ID>FunctionNaming:Background.kt:@ThemePreviews @Composable fun GradientBackgroundDefault</ID>
-    <ID>FunctionNaming:Background.kt:@ThemePreviews @Composable fun GradientBackgroundDynamic</ID>
-    <ID>FunctionNaming:Button.kt:@Composable fun NiaButton</ID>
-    <ID>FunctionNaming:Button.kt:@Composable fun NiaOutlinedButton</ID>
-    <ID>FunctionNaming:Button.kt:@Composable fun NiaTextButton</ID>
-    <ID>FunctionNaming:Button.kt:@Composable private fun NiaButtonContent</ID>
-    <ID>FunctionNaming:Button.kt:@ThemePreviews @Composable fun NiaButtonLeadingIconPreview</ID>
-    <ID>FunctionNaming:Button.kt:@ThemePreviews @Composable fun NiaButtonPreview</ID>
-    <ID>FunctionNaming:Button.kt:@ThemePreviews @Composable fun NiaOutlinedButtonPreview</ID>
-    <ID>FunctionNaming:Chip.kt:@Composable fun NiaFilterChip</ID>
-    <ID>FunctionNaming:Chip.kt:@ThemePreviews @Composable fun ChipPreview</ID>
-    <ID>FunctionNaming:DynamicAsyncImage.kt:@Composable fun DynamicAsyncImage</ID>
-    <ID>FunctionNaming:IconButton.kt:@Composable fun NiaIconToggleButton</ID>
-    <ID>FunctionNaming:IconButton.kt:@ThemePreviews @Composable fun IconButtonPreview</ID>
-    <ID>FunctionNaming:IconButton.kt:@ThemePreviews @Composable fun IconButtonPreviewUnchecked</ID>
-    <ID>FunctionNaming:LoadingWheel.kt:@Composable fun NiaLoadingWheel</ID>
-    <ID>FunctionNaming:LoadingWheel.kt:@Composable fun NiaOverlayLoadingWheel</ID>
-    <ID>FunctionNaming:LoadingWheel.kt:@ThemePreviews @Composable fun NiaLoadingWheelPreview</ID>
-    <ID>FunctionNaming:LoadingWheel.kt:@ThemePreviews @Composable fun NiaOverlayLoadingWheelPreview</ID>
-    <ID>FunctionNaming:Navigation.kt:@Composable fun NiaNavigationBar</ID>
-    <ID>FunctionNaming:Navigation.kt:@Composable fun NiaNavigationRail</ID>
-    <ID>FunctionNaming:Navigation.kt:@Composable fun NiaNavigationRailItem</ID>
-    <ID>FunctionNaming:Navigation.kt:@Composable fun NiaNavigationSuiteScaffold</ID>
-    <ID>FunctionNaming:Navigation.kt:@Composable fun RowScope.NiaNavigationBarItem</ID>
-    <ID>FunctionNaming:Navigation.kt:@ThemePreviews @Composable fun NiaNavigationBarPreview</ID>
-    <ID>FunctionNaming:Navigation.kt:@ThemePreviews @Composable fun NiaNavigationRailPreview</ID>
-    <ID>FunctionNaming:Scrollbar.kt:@Composable fun Scrollbar</ID>
-    <ID>FunctionNaming:Tabs.kt:@Composable fun NiaTab</ID>
-    <ID>FunctionNaming:Tabs.kt:@Composable fun NiaTabRow</ID>
-    <ID>FunctionNaming:Tabs.kt:@ThemePreviews @Composable fun TabsPreview</ID>
-    <ID>FunctionNaming:Tag.kt:@Composable fun NiaTopicTag</ID>
-    <ID>FunctionNaming:Tag.kt:@ThemePreviews @Composable fun TagPreview</ID>
-    <ID>FunctionNaming:Theme.kt:@Composable fun NiaTheme</ID>
-    <ID>FunctionNaming:TopAppBar.kt:@OptIn(ExperimentalMaterial3Api::class) @Composable fun NiaTopAppBar</ID>
-    <ID>FunctionNaming:TopAppBar.kt:@OptIn(ExperimentalMaterial3Api::class) @Preview("Top App Bar") @Composable private fun NiaTopAppBarPreview</ID>
-    <ID>FunctionNaming:ViewToggle.kt:@Composable fun NiaViewToggleButton</ID>
-    <ID>FunctionNaming:ViewToggle.kt:@Composable private fun NiaViewToggleButtonContent</ID>
-    <ID>FunctionNaming:ViewToggle.kt:@Preview @Composable fun ViewTogglePreviewCompact</ID>
-    <ID>FunctionNaming:ViewToggle.kt:@ThemePreviews @Composable fun ViewTogglePreviewExpanded</ID>
     <ID>LongMethod:LoadingWheel.kt:@Composable fun NiaLoadingWheel</ID>
     <ID>LongMethod:Scrollbar.kt:@Composable fun Scrollbar</ID>
-    <ID>LongParameterList:IconButton.kt:@Composable fun NiaIconToggleButton</ID>
-    <ID>LongParameterList:Navigation.kt:@Composable fun NiaNavigationRailItem</ID>
-    <ID>LongParameterList:Navigation.kt:@Composable fun RowScope.NiaNavigationBarItem</ID>
-    <ID>LongParameterList:Navigation.kt:NiaNavigationSuiteScope$fun item</ID>
-    <ID>LongParameterList:Scrollbar.kt:@Composable fun Scrollbar</ID>
-    <ID>LongParameterList:TopAppBar.kt:@OptIn(ExperimentalMaterial3Api::class) @Composable fun NiaTopAppBar</ID>
-    <ID>LongParameterList:ViewToggle.kt:@Composable fun NiaViewToggleButton</ID>
     <ID>MagicNumber:AppScrollbars.kt:0.5f</ID>
     <ID>MagicNumber:Background.kt:0.2552f</ID>
     <ID>MagicNumber:Background.kt:0.724f</ID>
     <ID>MagicNumber:Background.kt:11.06</ID>
-    <ID>MagicNumber:Color.kt:0xFF001F26</ID>
-    <ID>MagicNumber:Color.kt:0xFF001F28</ID>
-    <ID>MagicNumber:Color.kt:0xFF00210B</ID>
-    <ID>MagicNumber:Color.kt:0xFF003544</ID>
-    <ID>MagicNumber:Color.kt:0xFF003919</ID>
-    <ID>MagicNumber:Color.kt:0xFF004D61</ID>
-    <ID>MagicNumber:Color.kt:0xFF005227</ID>
-    <ID>MagicNumber:Color.kt:0xFF006780</ID>
-    <ID>MagicNumber:Color.kt:0xFF006D36</ID>
-    <ID>MagicNumber:Color.kt:0xFF02363F</ID>
-    <ID>MagicNumber:Color.kt:0xFF0D1F12</ID>
-    <ID>MagicNumber:Color.kt:0xFF0EE37C</ID>
-    <ID>MagicNumber:Color.kt:0xFF1A1C1A</ID>
-    <ID>MagicNumber:Color.kt:0xFF201A1B</ID>
-    <ID>MagicNumber:Color.kt:0xFF214D56</ID>
-    <ID>MagicNumber:Color.kt:0xFF223526</ID>
-    <ID>MagicNumber:Color.kt:0xFF2F312E</ID>
-    <ID>MagicNumber:Color.kt:0xFF36003C</ID>
-    <ID>MagicNumber:Color.kt:0xFF362F30</ID>
-    <ID>MagicNumber:Color.kt:0xFF380D00</ID>
-    <ID>MagicNumber:Color.kt:0xFF394B3C</ID>
-    <ID>MagicNumber:Color.kt:0xFF3A656F</ID>
-    <ID>MagicNumber:Color.kt:0xFF410002</ID>
-    <ID>MagicNumber:Color.kt:0xFF414941</ID>
-    <ID>MagicNumber:Color.kt:0xFF4D444C</ID>
-    <ID>MagicNumber:Color.kt:0xFF4F6352</ID>
-    <ID>MagicNumber:Color.kt:0xFF560A5D</ID>
-    <ID>MagicNumber:Color.kt:0xFF5AFF9D</ID>
-    <ID>MagicNumber:Color.kt:0xFF5B1A00</ID>
-    <ID>MagicNumber:Color.kt:0xFF5DD5FC</ID>
-    <ID>MagicNumber:Color.kt:0xFF690005</ID>
-    <ID>MagicNumber:Color.kt:0xFF702776</ID>
-    <ID>MagicNumber:Color.kt:0xFF727971</ID>
-    <ID>MagicNumber:Color.kt:0xFF7F747C</ID>
-    <ID>MagicNumber:Color.kt:0xFF812800</ID>
-    <ID>MagicNumber:Color.kt:0xFF8B418F</ID>
-    <ID>MagicNumber:Color.kt:0xFF8B938A</ID>
-    <ID>MagicNumber:Color.kt:0xFF93000A</ID>
-    <ID>MagicNumber:Color.kt:0xFF998D96</ID>
-    <ID>MagicNumber:Color.kt:0xFFA23F16</ID>
-    <ID>MagicNumber:Color.kt:0xFFA2CED9</ID>
-    <ID>MagicNumber:Color.kt:0xFFB7CCB8</ID>
-    <ID>MagicNumber:Color.kt:0xFFB8EAFF</ID>
-    <ID>MagicNumber:Color.kt:0xFFBA1A1A</ID>
-    <ID>MagicNumber:Color.kt:0xFFBEEAF6</ID>
-    <ID>MagicNumber:Color.kt:0xFFC1C9BF</ID>
-    <ID>MagicNumber:Color.kt:0xFFD0C3CC</ID>
-    <ID>MagicNumber:Color.kt:0xFFD3E8D3</ID>
-    <ID>MagicNumber:Color.kt:0xFFDDE5DB</ID>
-    <ID>MagicNumber:Color.kt:0xFFE2E3DE</ID>
-    <ID>MagicNumber:Color.kt:0xFFECDFE0</ID>
-    <ID>MagicNumber:Color.kt:0xFFEDDEE8</ID>
-    <ID>MagicNumber:Color.kt:0xFFF0F1EC</ID>
-    <ID>MagicNumber:Color.kt:0xFFFAEEEF</ID>
-    <ID>MagicNumber:Color.kt:0xFFFBFDF7</ID>
-    <ID>MagicNumber:Color.kt:0xFFFCFCFC</ID>
-    <ID>MagicNumber:Color.kt:0xFFFFA9FE</ID>
-    <ID>MagicNumber:Color.kt:0xFFFFB4AB</ID>
-    <ID>MagicNumber:Color.kt:0xFFFFB59B</ID>
-    <ID>MagicNumber:Color.kt:0xFFFFD6FA</ID>
-    <ID>MagicNumber:Color.kt:0xFFFFDAD6</ID>
-    <ID>MagicNumber:Color.kt:0xFFFFDBCF</ID>
     <ID>MagicNumber:LoadingWheel.kt:4</ID>
     <ID>MatchingDeclarationName:Background.kt:BackgroundTheme</ID>
     <ID>MatchingDeclarationName:Gradient.kt:GradientColors</ID>
     <ID>MatchingDeclarationName:Tint.kt:TintTheme</ID>
     <ID>ReturnCount:LazyScrollbarUtilities.kt:internal inline fun &lt;LazyState : ScrollableState, LazyStateItem&gt; LazyState.interpolateFirstItemIndex: Float</ID>
     <ID>SwallowedException:Scrollbar.kt:e: TimeoutCancellationException</ID>
+    <ID>TopLevelPropertyNaming:AppScrollbars.kt:/** * The time period for showing the scrollbar thumb after interacting with it, before it fades away */ private const val SCROLLBAR_INACTIVE_TO_DORMANT_TIME_IN_MS = 2_000L</ID>
+    <ID>TopLevelPropertyNaming:LoadingWheel.kt:private const val NUM_OF_LINES = 12</ID>
+    <ID>TopLevelPropertyNaming:LoadingWheel.kt:private const val ROTATION_TIME = 12000</ID>
+    <ID>TopLevelPropertyNaming:Scrollbar.kt:/** * The delay between scrolls when a user long presses on the scrollbar track to initiate a scroll * instead of dragging the scrollbar thumb. */ private const val SCROLLBAR_PRESS_DELAY_MS = 10L</ID>
+    <ID>TopLevelPropertyNaming:Scrollbar.kt:/** * The percentage displacement of the scrollbar when scrolled by long presses on the scrollbar * track. */ private const val SCROLLBAR_PRESS_DELTA_PCT = 0.02f</ID>
     <ID>UnsafeCallOnNullableType:AppScrollbars.kt:ScrollThumbNode$lastOutline!!</ID>
-    <ID>UnusedPrivateFunction:TopAppBar.kt:@OptIn(ExperimentalMaterial3Api::class) @Preview("Top App Bar") @Composable private fun NiaTopAppBarPreview</ID>
   </CurrentIssues>
 </SmellBaseline>

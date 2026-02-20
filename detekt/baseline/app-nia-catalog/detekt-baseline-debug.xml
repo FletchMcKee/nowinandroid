@@ -2,7 +2,6 @@
 <SmellBaseline>
   <ManuallySuppressedIssues/>
   <CurrentIssues>
-    <ID>FunctionNaming:Catalog.kt:@OptIn(ExperimentalLayoutApi::class) @Composable fun NiaCatalog</ID>
     <ID>LongMethod:Catalog.kt:@OptIn(ExperimentalLayoutApi::class) @Composable fun NiaCatalog</ID>
   </CurrentIssues>
 </SmellBaseline>

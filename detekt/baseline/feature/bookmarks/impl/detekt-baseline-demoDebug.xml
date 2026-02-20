@@ -3,18 +3,5 @@
   <ManuallySuppressedIssues/>
   <CurrentIssues>
     <ID>ForbiddenComment:BookmarksEntryProvider.kt:// TODO: Why is this here?</ID>
-    <ID>FunctionNaming:BookmarksScreen.kt:@Composable internal fun BookmarksScreen</ID>
-    <ID>FunctionNaming:BookmarksScreen.kt:@Composable private fun BookmarksGrid</ID>
-    <ID>FunctionNaming:BookmarksScreen.kt:@Composable private fun EmptyState</ID>
-    <ID>FunctionNaming:BookmarksScreen.kt:@Composable private fun LoadingState</ID>
-    <ID>FunctionNaming:BookmarksScreen.kt:@Preview @Composable private fun BookmarksGridPreview</ID>
-    <ID>FunctionNaming:BookmarksScreen.kt:@Preview @Composable private fun EmptyStatePreview</ID>
-    <ID>FunctionNaming:BookmarksScreen.kt:@Preview @Composable private fun LoadingStatePreview</ID>
-    <ID>FunctionNaming:BookmarksScreen.kt:@VisibleForTesting(otherwise = VisibleForTesting.PRIVATE) @Composable internal fun BookmarksScreen</ID>
-    <ID>LongParameterList:BookmarksScreen.kt:@VisibleForTesting(otherwise = VisibleForTesting.PRIVATE) @Composable internal fun BookmarksScreen</ID>
-    <ID>MagicNumber:BookmarksViewModel.kt:BookmarksViewModel$5_000</ID>
-    <ID>UnusedPrivateFunction:BookmarksScreen.kt:@Preview @Composable private fun BookmarksGridPreview</ID>
-    <ID>UnusedPrivateFunction:BookmarksScreen.kt:@Preview @Composable private fun EmptyStatePreview</ID>
-    <ID>UnusedPrivateFunction:BookmarksScreen.kt:@Preview @Composable private fun LoadingStatePreview</ID>
   </CurrentIssues>
 </SmellBaseline>
