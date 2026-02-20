@@ -16,6 +16,7 @@
 
 import com.android.build.api.dsl.LibraryExtension
 import com.android.build.api.variant.LibraryAndroidComponentsExtension
+import com.google.samples.apps.nowinandroid.configureDetekt
 import com.google.samples.apps.nowinandroid.configureFlavors
 import com.google.samples.apps.nowinandroid.configureGradleManagedDevices
 import com.google.samples.apps.nowinandroid.configureKotlinAndroid
@@ -60,6 +61,7 @@ abstract class AndroidLibraryConventionPlugin : Plugin<Project> {
             if (!buildFeatures.isIsolatedProjectsEnabled()) {
                 configureSpotlessForAndroid()
             }
+            configureDetekt()
             dependencies {
                 "androidTestImplementation"(libs.findLibrary("kotlin.test").get())
                 "testImplementation"(libs.findLibrary("kotlin.test").get())

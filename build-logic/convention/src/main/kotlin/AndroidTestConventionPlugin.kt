@@ -15,6 +15,7 @@
  */
 
 import com.android.build.api.dsl.TestExtension
+import com.google.samples.apps.nowinandroid.configureDetekt
 import com.google.samples.apps.nowinandroid.configureGradleManagedDevices
 import com.google.samples.apps.nowinandroid.configureKotlinAndroid
 import org.gradle.api.Plugin
@@ -32,6 +33,8 @@ class AndroidTestConventionPlugin : Plugin<Project> {
                 defaultConfig.targetSdk = 36
                 configureGradleManagedDevices(this)
             }
+
+            configureDetekt()
         }
     }
 }

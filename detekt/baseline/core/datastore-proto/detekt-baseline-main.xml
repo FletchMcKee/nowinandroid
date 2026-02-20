@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>ConstructorParameterNaming:UserPreferencesKt.kt:UserPreferencesKt.Dsl$private val _builder: com.google.samples.apps.nowinandroid.core.datastore.UserPreferences.Builder</ID>
+    <ID>FunctionNaming:UserPreferencesKt.kt:UserPreferencesKt.Dsl$@kotlin.jvm.JvmSynthetic @kotlin.PublishedApi internal fun _build: com.google.samples.apps.nowinandroid.core.datastore.UserPreferences</ID>
+    <ID>FunctionNaming:UserPreferencesKt.kt:UserPreferencesKt.Dsl.Companion$@kotlin.jvm.JvmSynthetic @kotlin.PublishedApi internal fun _create: Dsl</ID>
+    <ID>MaxLineLength:UserPreferencesKt.kt:UserPreferencesKt.Dsl$public</ID>
+    <ID>MaxLineLength:UserPreferencesKt.kt:UserPreferencesKt.Dsl.Companion$internal</ID>
+    <ID>MaxLineLength:UserPreferencesKt.kt:`com.google.samples.apps.nowinandroid.core.datastore`.UserPreferencesKt.Dsl._create(this.toBuilder()).apply { block() }._build()</ID>
+    <ID>MaxLineLength:UserPreferencesKt.kt:com.google.samples.apps.nowinandroid.core.datastore.UserPreferencesKt.Dsl._create(com.google.samples.apps.nowinandroid.core.datastore.UserPreferences.newBuilder()).apply { block() }._build()</ID>
+    <ID>MaxLineLength:UserPreferencesKt.kt:public</ID>
+    <ID>MaxLineLength:UserPreferencesKt.kt:public inline</ID>
+    <ID>TooManyFunctions:UserPreferencesKt.kt:UserPreferencesKt$Dsl</ID>
+  </CurrentIssues>
+</SmellBaseline>

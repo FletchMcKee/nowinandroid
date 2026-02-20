@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>MagicNumber:ForYouActions.kt:10</ID>
+    <ID>MagicNumber:ForYouActions.kt:100</ID>
+    <ID>MagicNumber:ForYouActions.kt:10_000</ID>
+    <ID>MagicNumber:ForYouActions.kt:3</ID>
+    <ID>MagicNumber:ForYouActions.kt:5_000</ID>
+    <ID>MagicNumber:ForYouActions.kt:60_000</ID>
+    <ID>MagicNumber:GeneralActions.kt:2_000</ID>
+    <ID>MagicNumber:InterestsActions.kt:30_000</ID>
+    <ID>MagicNumber:InterestsActions.kt:5_000</ID>
+    <ID>MagicNumber:ScrollTopicListBenchmark.kt:ScrollTopicListBenchmark$3</ID>
+    <ID>MagicNumber:ScrollTopicListPowerMetricsBenchmark.kt:ScrollTopicListPowerMetricsBenchmark$3</ID>
+    <ID>MagicNumber:TopicsScreenRecompositionBenchmark.kt:TopicsScreenRecompositionBenchmark$3</ID>
+    <ID>MagicNumber:Utils.kt:5</ID>
+    <ID>UtilityClassWithPublicConstructor:BaselineProfileMetrics.kt:BaselineProfileMetrics</ID>
+  </CurrentIssues>
+</SmellBaseline>

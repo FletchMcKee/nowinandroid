@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>InjectDispatcher:DispatchersModule.kt:DispatchersModule$Default</ID>
+    <ID>InjectDispatcher:DispatchersModule.kt:DispatchersModule$IO</ID>
+  </CurrentIssues>
+</SmellBaseline>

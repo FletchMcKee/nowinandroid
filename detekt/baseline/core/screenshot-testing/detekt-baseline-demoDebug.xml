@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>LongParameterList:ScreenshotHelper.kt:@Composable private fun generateDescription: String</ID>
+    <ID>LongParameterList:ScreenshotHelper.kt:fun &lt;A : ComponentActivity&gt; AndroidComposeTestRule&lt;ActivityScenarioRule&lt;A&gt;, A&gt;.captureForDevice</ID>
+    <ID>LongParameterList:ScreenshotHelper.kt:fun &lt;A : ComponentActivity&gt; AndroidComposeTestRule&lt;ActivityScenarioRule&lt;A&gt;, A&gt;.captureMultiTheme</ID>
+    <ID>MagicNumber:ScreenshotHelper.kt:100</ID>
+    <ID>MagicNumber:ScreenshotHelper.kt:480</ID>
+    <ID>MagicNumber:ScreenshotHelper.kt:640</ID>
+  </CurrentIssues>
+</SmellBaseline>

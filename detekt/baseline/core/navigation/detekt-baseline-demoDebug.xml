@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>UseOrEmpty:NavigationState.kt:decoratedEntries[it] ?: emptyList()</ID>
+  </CurrentIssues>
+</SmellBaseline>

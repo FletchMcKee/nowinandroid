@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>LongMethod:OfflineFirstNewsRepository.kt:OfflineFirstNewsRepository$override suspend fun syncWith: Boolean</ID>
+    <ID>MagicNumber:TimeZoneMonitor.kt:TimeZoneBroadcastMonitor$5_000</ID>
+    <ID>MaxLineLength:TimeZoneMonitor.kt:TimeZoneBroadcastMonitor.&lt;no name provided&gt;$// If there isn't a zoneId in the intent, fallback to the systemDefault, which should also reflect the change</ID>
+    <ID>TooGenericExceptionCaught:SyncUtilities.kt:exception: Exception</ID>
+    <ID>UseOrEmpty:OfflineFirstNewsRepository.kt:OfflineFirstNewsRepository$query.filterNewsIds ?: emptySet()</ID>
+    <ID>UseOrEmpty:OfflineFirstNewsRepository.kt:OfflineFirstNewsRepository$query.filterTopicIds ?: emptySet()</ID>
+  </CurrentIssues>
+</SmellBaseline>

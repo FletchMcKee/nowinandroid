@@ -16,8 +16,17 @@
 
 pluginManagement {
     repositories {
-        gradlePluginPortal()
+        gradlePluginPortal {
+            content {
+                excludeGroup("dev.detekt")
+            }
+        }
         google()
+        mavenLocal {
+            content {
+                includeGroup("dev.detekt")
+            }
+        }
     }
 }
 
@@ -30,7 +39,16 @@ dependencyResolutionManagement {
                 includeGroupByRegex("androidx.*")
             }
         }
-        mavenCentral()
+        mavenCentral {
+            content {
+                excludeGroup("dev.detekt")
+            }
+        }
+        mavenLocal {
+            content {
+                includeGroup("dev.detekt")
+            }
+        }
     }
     versionCatalogs {
         create("libs") {

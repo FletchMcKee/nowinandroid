@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>ForbiddenComment:ForYouScreen.kt:// TODO: Check that the Scaffold handles this correctly in NiaApp</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@Composable @OptIn(ExperimentalPermissionsApi::class) private fun NotificationPermissionEffect</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@Composable fun ForYouScreen</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@Composable fun TopicIcon</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@Composable internal fun ForYouScreen</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@Composable private fun DeepLinkEffect</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@Composable private fun SingleTopicButton</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@Composable private fun TopicSelection</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@DevicePreviews @Composable fun ForYouScreenLoading</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@DevicePreviews @Composable fun ForYouScreenOfflinePopulatedFeed</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@DevicePreviews @Composable fun ForYouScreenPopulatedAndLoading</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@DevicePreviews @Composable fun ForYouScreenPopulatedFeed</ID>
+    <ID>FunctionNaming:ForYouScreen.kt:@DevicePreviews @Composable fun ForYouScreenTopicSelection</ID>
+    <ID>LongMethod:ForYouScreen.kt:@Composable internal fun ForYouScreen</ID>
+    <ID>LongParameterList:ForYouScreen.kt:@Composable internal fun ForYouScreen</ID>
+    <ID>MagicNumber:ForYouScreen.kt:3</ID>
+    <ID>MagicNumber:ForYouViewModel.kt:ForYouViewModel$5_000</ID>
+    <ID>TooManyFunctions:ForYouScreen.kt:com.google.samples.apps.nowinandroid.feature.foryou.impl.ForYouScreen.kt</ID>
+  </CurrentIssues>
+</SmellBaseline>

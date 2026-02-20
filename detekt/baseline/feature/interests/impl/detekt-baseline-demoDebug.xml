@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>ForbiddenComment:InterestsEntryProvider.kt:// TODO: This event should either be provided by the ViewModel or by the navigator, not both</ID>
+    <ID>ForbiddenComment:InterestsEntryProvider.kt:// TODO: This should be dynamically calculated based on the rendering scene</ID>
+    <ID>ForbiddenComment:InterestsScreen.kt:// TODO: this violates SSOT, events should go through the ViewModel</ID>
+    <ID>ForbiddenComment:InterestsViewModel.kt:InterestsViewModel$// TODO: This should modify the navigation state directly rather than just updating the</ID>
+    <ID>ForbiddenComment:InterestsViewModel.kt:InterestsViewModel$// TODO: see comment below</ID>
+    <ID>ForbiddenComment:InterestsViewModel.kt:InterestsViewModel$// TODO: this should no longer be necessary, the currently selected topic should be</ID>
+    <ID>FunctionNaming:InterestsDetailPlaceholder.kt:@Composable fun InterestsDetailPlaceholder</ID>
+    <ID>FunctionNaming:InterestsDetailPlaceholder.kt:@Preview(widthDp = 200, heightDp = 300) @Composable fun TopicDetailPlaceholderPreview</ID>
+    <ID>FunctionNaming:InterestsScreen.kt:@Composable fun InterestsScreen</ID>
+    <ID>FunctionNaming:InterestsScreen.kt:@Composable internal fun InterestsScreen</ID>
+    <ID>FunctionNaming:InterestsScreen.kt:@Composable private fun InterestsEmptyScreen</ID>
+    <ID>FunctionNaming:InterestsScreen.kt:@DevicePreviews @Composable fun InterestsScreenEmpty</ID>
+    <ID>FunctionNaming:InterestsScreen.kt:@DevicePreviews @Composable fun InterestsScreenLoading</ID>
+    <ID>FunctionNaming:InterestsScreen.kt:@DevicePreviews @Composable fun InterestsScreenPopulated</ID>
+    <ID>FunctionNaming:TabContent.kt:@Composable fun TopicsTabContent</ID>
+    <ID>LongParameterList:TabContent.kt:@Composable fun TopicsTabContent</ID>
+    <ID>MagicNumber:InterestsViewModel.kt:InterestsViewModel$5_000</ID>
+    <ID>MayBeConstant:TabContent.kt:val LIST_PANE_TEST_TAG = "interests:topics"</ID>
+  </CurrentIssues>
+</SmellBaseline>

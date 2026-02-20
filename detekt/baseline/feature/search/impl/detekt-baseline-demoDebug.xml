@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>FunctionNaming:SearchScreen.kt:@Composable fun EmptySearchResultBody</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Composable internal fun SearchScreen</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Composable private fun RecentSearchesBody</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Composable private fun SearchNotReadyBody</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Composable private fun SearchResultBody</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Composable private fun SearchTextField</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Composable private fun SearchToolbar</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@DevicePreviews @Composable private fun SearchScreenPreview</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Preview @Composable private fun EmptySearchResultColumnPreview</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Preview @Composable private fun RecentSearchesBodyPreview</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Preview @Composable private fun SearchNotReadyBodyPreview</ID>
+    <ID>FunctionNaming:SearchScreen.kt:@Preview @Composable private fun SearchToolbarPreview</ID>
+    <ID>LongMethod:SearchScreen.kt:@Composable internal fun SearchScreen</ID>
+    <ID>LongMethod:SearchScreen.kt:@Composable private fun SearchResultBody</ID>
+    <ID>LongMethod:SearchScreen.kt:@Composable private fun SearchTextField</ID>
+    <ID>LongParameterList:SearchScreen.kt:@Composable internal fun SearchScreen</ID>
+    <ID>LongParameterList:SearchScreen.kt:@Composable private fun SearchResultBody</ID>
+    <ID>LongParameterList:SearchViewModel.kt:SearchViewModel</ID>
+    <ID>MagicNumber:SearchViewModel.kt:SearchViewModel$5_000</ID>
+    <ID>TooManyFunctions:SearchScreen.kt:com.google.samples.apps.nowinandroid.feature.search.impl.SearchScreen.kt</ID>
+    <ID>UnusedPrivateFunction:SearchScreen.kt:@DevicePreviews @Composable private fun SearchScreenPreview</ID>
+    <ID>UnusedPrivateFunction:SearchScreen.kt:@Preview @Composable private fun EmptySearchResultColumnPreview</ID>
+    <ID>UnusedPrivateFunction:SearchScreen.kt:@Preview @Composable private fun RecentSearchesBodyPreview</ID>
+    <ID>UnusedPrivateFunction:SearchScreen.kt:@Preview @Composable private fun SearchNotReadyBodyPreview</ID>
+    <ID>UnusedPrivateFunction:SearchScreen.kt:@Preview @Composable private fun SearchToolbarPreview</ID>
+  </CurrentIssues>
+</SmellBaseline>

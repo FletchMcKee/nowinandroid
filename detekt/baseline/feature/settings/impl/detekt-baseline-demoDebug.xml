@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>FunctionNaming:SettingsDialog.kt:@Composable fun SettingsDialog</ID>
+    <ID>FunctionNaming:SettingsDialog.kt:@Composable fun SettingsDialogThemeChooserRow</ID>
+    <ID>FunctionNaming:SettingsDialog.kt:@Composable private fun ColumnScope.SettingsPanel</ID>
+    <ID>FunctionNaming:SettingsDialog.kt:@Composable private fun SettingsDialogSectionTitle</ID>
+    <ID>FunctionNaming:SettingsDialog.kt:@OptIn(ExperimentalLayoutApi::class) @Composable private fun LinksPanel</ID>
+    <ID>FunctionNaming:SettingsDialog.kt:@Preview @Composable private fun PreviewSettingsDialog</ID>
+    <ID>FunctionNaming:SettingsDialog.kt:@Preview @Composable private fun PreviewSettingsDialogLoading</ID>
+    <ID>LongParameterList:SettingsDialog.kt:@Composable fun SettingsDialog</ID>
+    <ID>UnusedPrivateFunction:SettingsDialog.kt:@Preview @Composable private fun PreviewSettingsDialog</ID>
+    <ID>UnusedPrivateFunction:SettingsDialog.kt:@Preview @Composable private fun PreviewSettingsDialogLoading</ID>
+  </CurrentIssues>
+</SmellBaseline>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>LongParameterList:SyncWorker.kt:SyncWorker</ID>
+    <ID>MatchingDeclarationName:SyncInitializer.kt:Sync</ID>
+    <ID>UnnecessaryApply:SyncInitializer.kt:Sync$apply { // Run sync on app startup and ensure only one sync worker runs at any time enqueueUniqueWork( SYNC_WORK_NAME, ExistingWorkPolicy.KEEP, SyncWorker.startUpSyncWork(), ) }</ID>
+    <ID>UseOrEmpty:DelegatingWorker.kt:DelegatingWorker$workerParams.inputData.getString(WORKER_CLASS_NAME) ?: ""</ID>
+  </CurrentIssues>
+</SmellBaseline>

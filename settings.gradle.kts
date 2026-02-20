@@ -24,8 +24,21 @@ pluginManagement {
                 includeGroupByRegex("androidx.*")
             }
         }
-        mavenCentral()
-        gradlePluginPortal()
+        mavenCentral {
+            content {
+                excludeGroup("dev.detekt")
+            }
+        }
+        gradlePluginPortal {
+            content {
+                excludeGroup("dev.detekt")
+            }
+        }
+        mavenLocal {
+            content {
+                includeGroup("dev.detekt")
+            }
+        }
     }
 }
 
@@ -39,7 +52,16 @@ dependencyResolutionManagement {
                 includeGroupByRegex("androidx.*")
             }
         }
-        mavenCentral()
+        mavenCentral {
+            content {
+                excludeGroup("dev.detekt")
+            }
+        }
+        mavenLocal {
+            content {
+                includeGroup("dev.detekt")
+            }
+        }
     }
 }
 rootProject.name = "nowinandroid"
