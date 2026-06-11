@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>LongParameterList:ScreenshotHelper.kt:@Composable private fun generateDescription: String</ID>
+    <ID>MagicNumber:ScreenshotHelper.kt:100</ID>
+    <ID>MagicNumber:ScreenshotHelper.kt:480</ID>
+    <ID>MagicNumber:ScreenshotHelper.kt:640</ID>
+  </CurrentIssues>
+</SmellBaseline>

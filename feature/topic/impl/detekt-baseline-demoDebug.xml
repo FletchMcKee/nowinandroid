@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>ForbiddenComment:TopicScreen.kt:// TODO: Could/should this be replaced with [LazyGridScope.newsFeed]?</ID>
+    <ID>ForbiddenComment:TopicScreen.kt:// TODO: Show icon if available</ID>
+    <ID>LongMethod:TopicScreen.kt:@VisibleForTesting @Composable internal fun TopicScreen</ID>
+    <ID>LongParameterList:TopicScreen.kt:@VisibleForTesting @Composable internal fun TopicScreen</ID>
+    <ID>LongParameterList:TopicScreen.kt:private fun LazyListScope.topicBody</ID>
+  </CurrentIssues>
+</SmellBaseline>

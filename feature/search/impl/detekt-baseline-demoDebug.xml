@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>LongMethod:SearchScreen.kt:@Composable internal fun SearchScreen</ID>
+    <ID>LongMethod:SearchScreen.kt:@Composable private fun SearchResultBody</ID>
+    <ID>LongMethod:SearchScreen.kt:@Composable private fun SearchTextField</ID>
+    <ID>LongParameterList:SearchScreen.kt:@Composable private fun SearchResultBody</ID>
+    <ID>LongParameterList:SearchViewModel.kt:SearchViewModel</ID>
+    <ID>TooManyFunctions:SearchScreen.kt:com.google.samples.apps.nowinandroid.feature.search.impl.SearchScreen.kt</ID>
+    <ID>TopLevelPropertyNaming:SearchViewModel.kt:/** Minimum length where search query is considered as [SearchResultUiState.EmptyQuery] */ private const val SEARCH_QUERY_MIN_LENGTH = 2</ID>
+    <ID>TopLevelPropertyNaming:SearchViewModel.kt:/** Minimum number of the fts table's entity count where it's considered as search is not ready */ private const val SEARCH_MIN_FTS_ENTITY_COUNT = 1</ID>
+    <ID>TopLevelPropertyNaming:SearchViewModel.kt:private const val SEARCH_QUERY = "searchQuery"</ID>
+    <ID>UnusedPrivateFunction:SearchScreen.kt:@DevicePreviews @Composable private fun SearchScreenPreview</ID>
+  </CurrentIssues>
+</SmellBaseline>

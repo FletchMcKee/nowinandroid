@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+import com.google.samples.apps.nowinandroid.configureDetekt
 import com.google.samples.apps.nowinandroid.configureKotlinJvm
 import com.google.samples.apps.nowinandroid.configureSpotlessForJvm
 import com.google.samples.apps.nowinandroid.libs
@@ -30,6 +31,7 @@ abstract class JvmLibraryConventionPlugin : Plugin<Project> {
 
             configureKotlinJvm()
             configureSpotlessForJvm()
+            configureDetekt()
             dependencies {
                 "testImplementation"(libs.findLibrary("kotlin.test").get())
             }

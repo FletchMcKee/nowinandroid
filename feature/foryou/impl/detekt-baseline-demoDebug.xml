@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>ForbiddenComment:ForYouScreen.kt:// TODO: Check that the Scaffold handles this correctly in NiaApp</ID>
+    <ID>LongMethod:ForYouScreen.kt:@Composable internal fun ForYouScreen</ID>
+    <ID>LongParameterList:ForYouScreen.kt:@Composable internal fun ForYouScreen</ID>
+    <ID>MagicNumber:ForYouScreen.kt:3</ID>
+    <ID>TooManyFunctions:ForYouScreen.kt:com.google.samples.apps.nowinandroid.feature.foryou.impl.ForYouScreen.kt</ID>
+  </CurrentIssues>
+</SmellBaseline>

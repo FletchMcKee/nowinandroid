@@ -1,0 +1,308 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>ClassNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl : NewsResourceDao</ID>
+    <ID>ClassNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl : NewsResourceFtsDao</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_10_11_Impl.kt:NiaDatabase_AutoMigration_10_11_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_11_12_Impl.kt:NiaDatabase_AutoMigration_11_12_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_12_13_Impl.kt:NiaDatabase_AutoMigration_12_13_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_13_14_Impl.kt:NiaDatabase_AutoMigration_13_14_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_1_2_Impl.kt:NiaDatabase_AutoMigration_1_2_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_2_3_Impl.kt:NiaDatabase_AutoMigration_2_3_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_3_4_Impl.kt:NiaDatabase_AutoMigration_3_4_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_4_5_Impl.kt:NiaDatabase_AutoMigration_4_5_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_6_7_Impl.kt:NiaDatabase_AutoMigration_6_7_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_8_9_Impl.kt:NiaDatabase_AutoMigration_8_9_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_AutoMigration_9_10_Impl.kt:NiaDatabase_AutoMigration_9_10_Impl : Migration</ID>
+    <ID>ClassNaming:NiaDatabase_Impl.kt:NiaDatabase_Impl : NiaDatabase</ID>
+    <ID>ClassNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl : RecentSearchQueryDao</ID>
+    <ID>ClassNaming:TopicDao_Impl.kt:TopicDao_Impl : TopicDao</ID>
+    <ID>ClassNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl : TopicFtsDao</ID>
+    <ID>ConstructorParameterNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$__db: RoomDatabase</ID>
+    <ID>ConstructorParameterNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$__db: RoomDatabase</ID>
+    <ID>ConstructorParameterNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$__db: RoomDatabase</ID>
+    <ID>ConstructorParameterNaming:TopicDao_Impl.kt:TopicDao_Impl$__db: RoomDatabase</ID>
+    <ID>ConstructorParameterNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$__db: RoomDatabase</ID>
+    <ID>EmptyFunctionBlock:NiaDatabase_AutoMigration_3_4_Impl.kt:NiaDatabase_AutoMigration_3_4_Impl${ }</ID>
+    <ID>EmptyFunctionBlock:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;${ }</ID>
+    <ID>FunctionNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$private fun __fetchRelationshiptopicsAscomGoogleSamplesAppsNowinandroidCoreDatabaseModelTopicEntity</ID>
+    <ID>FunctionParameterNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$_connection: SQLiteConnection</ID>
+    <ID>FunctionParameterNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$_map: ArrayMap&lt;String, MutableList&lt;TopicEntity&gt;&gt;</ID>
+    <ID>LongMethod:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$public override fun getNewsResourceIds: Flow&lt;List&lt;String&gt;&gt;</ID>
+    <ID>LongMethod:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$public override fun getNewsResources: Flow&lt;List&lt;PopulatedNewsResource&gt;&gt;</ID>
+    <ID>LongMethod:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$public override fun onValidateSchema: RoomOpenDelegate.ValidationResult</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$3</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$4</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$5</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$6</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$999</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl.&lt;no name provided&gt;$3</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl.&lt;no name provided&gt;$4</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl.&lt;no name provided&gt;$5</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl.&lt;no name provided&gt;$6</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl.&lt;no name provided&gt;$7</ID>
+    <ID>MagicNumber:NewsResourceDao_Impl.kt:NewsResourceDao_Impl.&lt;no name provided&gt;$8</ID>
+    <ID>MagicNumber:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl.&lt;no name provided&gt;$3</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_10_11_Impl.kt:NiaDatabase_AutoMigration_10_11_Impl$10</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_10_11_Impl.kt:NiaDatabase_AutoMigration_10_11_Impl$11</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_11_12_Impl.kt:NiaDatabase_AutoMigration_11_12_Impl$11</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_11_12_Impl.kt:NiaDatabase_AutoMigration_11_12_Impl$12</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_12_13_Impl.kt:NiaDatabase_AutoMigration_12_13_Impl$12</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_12_13_Impl.kt:NiaDatabase_AutoMigration_12_13_Impl$13</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_13_14_Impl.kt:NiaDatabase_AutoMigration_13_14_Impl$13</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_13_14_Impl.kt:NiaDatabase_AutoMigration_13_14_Impl$14</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_2_3_Impl.kt:NiaDatabase_AutoMigration_2_3_Impl$3</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_3_4_Impl.kt:NiaDatabase_AutoMigration_3_4_Impl$3</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_3_4_Impl.kt:NiaDatabase_AutoMigration_3_4_Impl$4</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_4_5_Impl.kt:NiaDatabase_AutoMigration_4_5_Impl$4</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_4_5_Impl.kt:NiaDatabase_AutoMigration_4_5_Impl$5</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$5</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$6</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_6_7_Impl.kt:NiaDatabase_AutoMigration_6_7_Impl$6</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_6_7_Impl.kt:NiaDatabase_AutoMigration_6_7_Impl$7</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$7</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$8</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_8_9_Impl.kt:NiaDatabase_AutoMigration_8_9_Impl$8</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_8_9_Impl.kt:NiaDatabase_AutoMigration_8_9_Impl$9</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_9_10_Impl.kt:NiaDatabase_AutoMigration_9_10_Impl$10</ID>
+    <ID>MagicNumber:NiaDatabase_AutoMigration_9_10_Impl.kt:NiaDatabase_AutoMigration_9_10_Impl$9</ID>
+    <ID>MagicNumber:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$14</ID>
+    <ID>MagicNumber:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl.&lt;no name provided&gt;$3</ID>
+    <ID>MagicNumber:TopicDao_Impl.kt:TopicDao_Impl.&lt;no name provided&gt;$3</ID>
+    <ID>MagicNumber:TopicDao_Impl.kt:TopicDao_Impl.&lt;no name provided&gt;$4</ID>
+    <ID>MagicNumber:TopicDao_Impl.kt:TopicDao_Impl.&lt;no name provided&gt;$5</ID>
+    <ID>MagicNumber:TopicDao_Impl.kt:TopicDao_Impl.&lt;no name provided&gt;$6</ID>
+    <ID>MagicNumber:TopicDao_Impl.kt:TopicDao_Impl.&lt;no name provided&gt;$7</ID>
+    <ID>MagicNumber:TopicFtsDao_Impl.kt:TopicFtsDao_Impl.&lt;no name provided&gt;$3</ID>
+    <ID>MagicNumber:TopicFtsDao_Impl.kt:TopicFtsDao_Impl.&lt;no name provided&gt;$4</ID>
+    <ID>MaxLineLength:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$__fetchRelationshiptopicsAscomGoogleSamplesAppsNowinandroidCoreDatabaseModelTopicEntity(_connection, _collectionTopics)</ID>
+    <ID>MaxLineLength:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$_stringBuilder.append("SELECT `topics`.`id` AS `id`,`topics`.`name` AS `name`,`topics`.`shortDescription` AS `shortDescription`,`topics`.`longDescription` AS `longDescription`,`topics`.`url` AS `url`,`topics`.`imageUrl` AS `imageUrl`,_junction.`news_resource_id` FROM `news_resources_topics` AS _junction INNER JOIN `topics` ON (_junction.`topic_id` = `topics`.`id`) WHERE _junction.`news_resource_id` IN (")</ID>
+    <ID>MaxLineLength:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$_tmpEntity = NewsResourceEntity(_tmpId,_tmpTitle,_tmpContent,_tmpUrl,_tmpHeaderImageUrl,_tmpPublishDate,_tmpType)</ID>
+    <ID>MaxLineLength:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$private</ID>
+    <ID>MaxLineLength:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$public override suspend</ID>
+    <ID>MaxLineLength:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$this.__upsertAdapterOfNewsResourceEntity</ID>
+    <ID>MaxLineLength:NewsResourceDao_Impl.kt:NewsResourceDao_Impl.&lt;no name provided&gt;$protected override fun createQuery: String</ID>
+    <ID>MaxLineLength:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$public override suspend</ID>
+    <ID>MaxLineLength:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl.&lt;no name provided&gt;$protected override fun createQuery: String</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_10_11_Impl.kt:NiaDatabase_AutoMigration_10_11_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_news_resources` (`id` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL, `url` TEXT NOT NULL, `header_image_url` TEXT, `publish_date` INTEGER NOT NULL, `type` TEXT NOT NULL, PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_10_11_Impl.kt:NiaDatabase_AutoMigration_10_11_Impl$connection.execSQL("INSERT INTO `_new_news_resources` (`id`,`title`,`content`,`url`,`header_image_url`,`publish_date`,`type`) SELECT `id`,`title`,`content`,`url`,`header_image_url`,`publish_date`,`type` FROM `news_resources`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_12_13_Impl.kt:NiaDatabase_AutoMigration_12_13_Impl$connection.execSQL("CREATE VIRTUAL TABLE IF NOT EXISTS `newsResourcesFts` USING FTS4(`newsResourceId` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_12_13_Impl.kt:NiaDatabase_AutoMigration_12_13_Impl$connection.execSQL("CREATE VIRTUAL TABLE IF NOT EXISTS `topicsFts` USING FTS4(`topicId` TEXT NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_13_14_Impl.kt:NiaDatabase_AutoMigration_13_14_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `recentSearchQueries` (`query` TEXT NOT NULL, `queriedDate` INTEGER NOT NULL, PRIMARY KEY(`query`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_2_3_Impl.kt:NiaDatabase_AutoMigration_2_3_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_topics` (`id` INTEGER NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL DEFAULT '', `url` TEXT NOT NULL DEFAULT '', `imageUrl` TEXT NOT NULL DEFAULT '', PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_2_3_Impl.kt:NiaDatabase_AutoMigration_2_3_Impl$connection.execSQL("INSERT INTO `_new_topics` (`id`,`name`,`shortDescription`) SELECT `id`,`name`,`description` FROM `topics`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_episodes_authors_author_id` ON `episodes_authors` (`author_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_episodes_authors_episode_id` ON `episodes_authors` (`episode_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_authors_author_id` ON `news_resources_authors` (`author_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_authors_news_resource_id` ON `news_resources_authors` (`news_resource_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_topics_news_resource_id` ON `news_resources_topics` (`news_resource_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_topics_topic_id` ON `news_resources_topics` (`topic_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_authors` (`id` INTEGER NOT NULL, `name` TEXT NOT NULL, `image_url` TEXT NOT NULL, `twitter` TEXT NOT NULL DEFAULT '', `medium_page` TEXT NOT NULL DEFAULT '', PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_episodes_authors` (`episode_id` INTEGER NOT NULL, `author_id` INTEGER NOT NULL, PRIMARY KEY(`episode_id`, `author_id`), FOREIGN KEY(`episode_id`) REFERENCES `episodes`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`author_id`) REFERENCES `authors`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_news_resources_authors` (`news_resource_id` INTEGER NOT NULL, `author_id` INTEGER NOT NULL, PRIMARY KEY(`news_resource_id`, `author_id`), FOREIGN KEY(`news_resource_id`) REFERENCES `news_resources`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`author_id`) REFERENCES `authors`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_news_resources_topics` (`news_resource_id` INTEGER NOT NULL, `topic_id` INTEGER NOT NULL, PRIMARY KEY(`news_resource_id`, `topic_id`), FOREIGN KEY(`news_resource_id`) REFERENCES `news_resources`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`topic_id`) REFERENCES `topics`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("INSERT INTO `_new_authors` (`id`,`name`,`image_url`,`twitter`,`medium_page`) SELECT `id`,`name`,`image_url`,`twitter`,`medium_page` FROM `authors`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("INSERT INTO `_new_episodes_authors` (`episode_id`,`author_id`) SELECT `episode_id`,`author_id` FROM `episodes_authors`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("INSERT INTO `_new_news_resources_authors` (`news_resource_id`,`author_id`) SELECT `news_resource_id`,`author_id` FROM `news_resources_authors`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_5_6_Impl.kt:NiaDatabase_AutoMigration_5_6_Impl$connection.execSQL("INSERT INTO `_new_news_resources_topics` (`news_resource_id`,`topic_id`) SELECT `news_resource_id`,`topic_id` FROM `news_resources_topics`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_6_7_Impl.kt:NiaDatabase_AutoMigration_6_7_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_topics` (`id` INTEGER NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL DEFAULT '', `url` TEXT NOT NULL DEFAULT '', `imageUrl` TEXT NOT NULL DEFAULT '', PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_6_7_Impl.kt:NiaDatabase_AutoMigration_6_7_Impl$connection.execSQL("INSERT INTO `_new_topics` (`id`,`name`,`shortDescription`,`longDescription`,`url`,`imageUrl`) SELECT `id`,`name`,`shortDescription`,`longDescription`,`url`,`imageUrl` FROM `topics`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_episodes_authors_author_id` ON `episodes_authors` (`author_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_episodes_authors_episode_id` ON `episodes_authors` (`episode_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_authors_author_id` ON `news_resources_authors` (`author_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_authors_news_resource_id` ON `news_resources_authors` (`news_resource_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_topics_news_resource_id` ON `news_resources_topics` (`news_resource_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_topics_topic_id` ON `news_resources_topics` (`topic_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_authors` (`id` TEXT NOT NULL, `name` TEXT NOT NULL, `image_url` TEXT NOT NULL, `twitter` TEXT NOT NULL DEFAULT '', `medium_page` TEXT NOT NULL DEFAULT '', PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_episodes_authors` (`episode_id` TEXT NOT NULL, `author_id` TEXT NOT NULL, PRIMARY KEY(`episode_id`, `author_id`), FOREIGN KEY(`episode_id`) REFERENCES `episodes`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`author_id`) REFERENCES `authors`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_episodes` (`id` TEXT NOT NULL, `name` TEXT NOT NULL, `publish_date` INTEGER NOT NULL, `alternate_video` TEXT, `alternate_audio` TEXT, PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_news_resources_authors` (`news_resource_id` TEXT NOT NULL, `author_id` TEXT NOT NULL, PRIMARY KEY(`news_resource_id`, `author_id`), FOREIGN KEY(`news_resource_id`) REFERENCES `news_resources`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`author_id`) REFERENCES `authors`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_news_resources_topics` (`news_resource_id` TEXT NOT NULL, `topic_id` TEXT NOT NULL, PRIMARY KEY(`news_resource_id`, `topic_id`), FOREIGN KEY(`news_resource_id`) REFERENCES `news_resources`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`topic_id`) REFERENCES `topics`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_news_resources` (`id` TEXT NOT NULL, `episode_id` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL, `url` TEXT NOT NULL, `header_image_url` TEXT, `publish_date` INTEGER NOT NULL, `type` TEXT NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`episode_id`) REFERENCES `episodes`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_topics` (`id` TEXT NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL DEFAULT '', `url` TEXT NOT NULL DEFAULT '', `imageUrl` TEXT NOT NULL DEFAULT '', PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("INSERT INTO `_new_authors` (`id`,`name`,`image_url`,`twitter`,`medium_page`) SELECT `id`,`name`,`image_url`,`twitter`,`medium_page` FROM `authors`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("INSERT INTO `_new_episodes_authors` (`episode_id`,`author_id`) SELECT `episode_id`,`author_id` FROM `episodes_authors`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("INSERT INTO `_new_episodes` (`id`,`name`,`publish_date`,`alternate_video`,`alternate_audio`) SELECT `id`,`name`,`publish_date`,`alternate_video`,`alternate_audio` FROM `episodes`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("INSERT INTO `_new_news_resources_authors` (`news_resource_id`,`author_id`) SELECT `news_resource_id`,`author_id` FROM `news_resources_authors`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("INSERT INTO `_new_news_resources_topics` (`news_resource_id`,`topic_id`) SELECT `news_resource_id`,`topic_id` FROM `news_resources_topics`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("INSERT INTO `_new_news_resources` (`id`,`episode_id`,`title`,`content`,`url`,`header_image_url`,`publish_date`,`type`) SELECT `id`,`episode_id`,`title`,`content`,`url`,`header_image_url`,`publish_date`,`type` FROM `news_resources`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_7_8_Impl.kt:NiaDatabase_AutoMigration_7_8_Impl$connection.execSQL("INSERT INTO `_new_topics` (`id`,`name`,`shortDescription`,`longDescription`,`url`,`imageUrl`) SELECT `id`,`name`,`shortDescription`,`longDescription`,`url`,`imageUrl` FROM `topics`")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_9_10_Impl.kt:NiaDatabase_AutoMigration_9_10_Impl$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_episode_id` ON `news_resources` (`episode_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_9_10_Impl.kt:NiaDatabase_AutoMigration_9_10_Impl$connection.execSQL("CREATE TABLE IF NOT EXISTS `_new_news_resources` (`id` TEXT NOT NULL, `episode_id` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL, `url` TEXT NOT NULL, `header_image_url` TEXT, `publish_date` INTEGER NOT NULL, `type` TEXT NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`episode_id`) REFERENCES `episodes`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_AutoMigration_9_10_Impl.kt:NiaDatabase_AutoMigration_9_10_Impl$connection.execSQL("INSERT INTO `_new_news_resources` (`id`,`episode_id`,`title`,`content`,`url`,`header_image_url`,`publish_date`,`type`) SELECT `id`,`episode_id`,`title`,`content`,`url`,`header_image_url`,`publish_date`,`type` FROM `news_resources`")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl$public override</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl$return InvalidationTracker(this, _shadowTablesMap, _viewTables, "news_resources", "news_resources_topics", "newsResourcesFts", "topics", "topicsFts", "recentSearchQueries")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl$super.performClear(true, "news_resources", "news_resources_topics", "newsResourcesFts", "topics", "topicsFts", "recentSearchQueries")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl$val</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsNewsResources.put("content", TableInfo.Column("content", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsNewsResources.put("header_image_url", TableInfo.Column("header_image_url", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsNewsResources.put("publish_date", TableInfo.Column("publish_date", "INTEGER", true, 0, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsNewsResources.put("title", TableInfo.Column("title", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsNewsResources.put("type", TableInfo.Column("type", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsNewsResourcesTopics.put("news_resource_id", TableInfo.Column("news_resource_id", "TEXT", true, 1, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsNewsResourcesTopics.put("topic_id", TableInfo.Column("topic_id", "TEXT", true, 2, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsRecentSearchQueries.put("queriedDate", TableInfo.Column("queriedDate", "INTEGER", true, 0, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsRecentSearchQueries.put("query", TableInfo.Column("query", "TEXT", true, 1, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsTopics.put("imageUrl", TableInfo.Column("imageUrl", "TEXT", true, 0, "''", TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsTopics.put("longDescription", TableInfo.Column("longDescription", "TEXT", true, 0, "''", TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_columnsTopics.put("shortDescription", TableInfo.Column("shortDescription", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_foreignKeysNewsResourcesTopics.add(TableInfo.ForeignKey("news_resources", "CASCADE", "NO ACTION", listOf("news_resource_id"), listOf("id")))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_foreignKeysNewsResourcesTopics.add(TableInfo.ForeignKey("topics", "CASCADE", "NO ACTION", listOf("topic_id"), listOf("id")))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_indicesNewsResourcesTopics.add(TableInfo.Index("index_news_resources_topics_news_resource_id", false, listOf("news_resource_id"), listOf("ASC")))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$_indicesNewsResourcesTopics.add(TableInfo.Index("index_news_resources_topics_topic_id", false, listOf("topic_id"), listOf("ASC")))</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_topics_news_resource_id` ON `news_resources_topics` (`news_resource_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_topics_topic_id` ON `news_resources_topics` (`topic_id`)")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("CREATE TABLE IF NOT EXISTS `news_resources_topics` (`news_resource_id` TEXT NOT NULL, `topic_id` TEXT NOT NULL, PRIMARY KEY(`news_resource_id`, `topic_id`), FOREIGN KEY(`news_resource_id`) REFERENCES `news_resources`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`topic_id`) REFERENCES `topics`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("CREATE TABLE IF NOT EXISTS `news_resources` (`id` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL, `url` TEXT NOT NULL, `header_image_url` TEXT, `publish_date` INTEGER NOT NULL, `type` TEXT NOT NULL, PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("CREATE TABLE IF NOT EXISTS `recentSearchQueries` (`query` TEXT NOT NULL, `queriedDate` INTEGER NOT NULL, PRIMARY KEY(`query`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("CREATE TABLE IF NOT EXISTS `topics` (`id` TEXT NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL DEFAULT '', `url` TEXT NOT NULL DEFAULT '', `imageUrl` TEXT NOT NULL DEFAULT '', PRIMARY KEY(`id`))")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("CREATE VIRTUAL TABLE IF NOT EXISTS `newsResourcesFts` USING FTS4(`newsResourceId` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL)")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("CREATE VIRTUAL TABLE IF NOT EXISTS `topicsFts` USING FTS4(`topicId` TEXT NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL)")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$connection.execSQL("INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '51271b81bde7c7997d67fb23c8f31780')")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$val _infoNewsResources: TableInfo = TableInfo("news_resources", _columnsNewsResources, _foreignKeysNewsResources, _indicesNewsResources)</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$val _infoNewsResourcesFts: FtsTableInfo = FtsTableInfo("newsResourcesFts", _columnsNewsResourcesFts, "CREATE VIRTUAL TABLE IF NOT EXISTS `newsResourcesFts` USING FTS4(`newsResourceId` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL)")</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$val _infoNewsResourcesTopics: TableInfo = TableInfo("news_resources_topics", _columnsNewsResourcesTopics, _foreignKeysNewsResourcesTopics, _indicesNewsResourcesTopics)</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$val _infoRecentSearchQueries: TableInfo = TableInfo("recentSearchQueries", _columnsRecentSearchQueries, _foreignKeysRecentSearchQueries, _indicesRecentSearchQueries)</ID>
+    <ID>MaxLineLength:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$val _infoTopicsFts: FtsTableInfo = FtsTableInfo("topicsFts", _columnsTopicsFts, "CREATE VIRTUAL TABLE IF NOT EXISTS `topicsFts` USING FTS4(`topicId` TEXT NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL)")</ID>
+    <ID>MaxLineLength:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$public override suspend</ID>
+    <ID>MaxLineLength:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$this.__upsertAdapterOfRecentSearchQueryEntity</ID>
+    <ID>MaxLineLength:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl.&lt;no name provided&gt;$protected override fun createQuery: String</ID>
+    <ID>MaxLineLength:TopicDao_Impl.kt:TopicDao_Impl$error("The query result was empty, but expected a single row to return a NON-NULL object of type 'com.google.samples.apps.nowinandroid.core.database.model.TopicEntity'.")</ID>
+    <ID>MaxLineLength:TopicDao_Impl.kt:TopicDao_Impl$public override suspend</ID>
+    <ID>MaxLineLength:TopicDao_Impl.kt:TopicDao_Impl.&lt;no name provided&gt;$protected override fun createQuery: String</ID>
+    <ID>MaxLineLength:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$public override suspend</ID>
+    <ID>MaxLineLength:TopicFtsDao_Impl.kt:TopicFtsDao_Impl.&lt;no name provided&gt;$protected override fun createQuery: String</ID>
+    <ID>ReturnCount:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$private fun __fetchRelationshiptopicsAscomGoogleSamplesAppsNowinandroidCoreDatabaseModelTopicEntity</ID>
+    <ID>ReturnCount:NiaDatabase_Impl.kt:NiaDatabase_Impl.&lt;no name provided&gt;$public override fun onValidateSchema: RoomOpenDelegate.ValidationResult</ID>
+    <ID>VarCouldBeVal:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$var _argIndex: Int = 1</ID>
+    <ID>VarCouldBeVal:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$var _argIndex: Int = 1</ID>
+    <ID>VarCouldBeVal:TopicDao_Impl.kt:TopicDao_Impl$var _argIndex: Int = 1</ID>
+    <ID>VarCouldBeVal:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$var _argIndex: Int = 1</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$private val __db: RoomDatabase</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$private val __insertAdapterOfNewsResourceTopicCrossRef: EntityInsertAdapter&lt;NewsResourceTopicCrossRef&gt;</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$private val __instantConverter: InstantConverter = InstantConverter()</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$private val __upsertAdapterOfNewsResourceEntity: EntityUpsertAdapter&lt;NewsResourceEntity&gt;</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val __mapKeySet: Set&lt;String&gt; = _map.keys</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _collectionTopics: ArrayMap&lt;String, MutableList&lt;TopicEntity&gt;&gt; = ArrayMap&lt;String, MutableList&lt;TopicEntity&gt;&gt;()</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfContent: Int = getColumnIndexOrThrow(_stmt, "content")</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfHeaderImageUrl: Int = getColumnIndexOrThrow(_stmt, "header_image_url")</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfId: Int = 0</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfId: Int = getColumnIndexOrThrow(_stmt, "id")</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfImageUrl: Int = 5</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfLongDescription: Int = 3</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfName: Int = 1</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfPublishDate: Int = getColumnIndexOrThrow(_stmt, "publish_date")</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfShortDescription: Int = 2</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfTitle: Int = getColumnIndexOrThrow(_stmt, "title")</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfType: Int = getColumnIndexOrThrow(_stmt, "type")</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfUrl: Int = 4</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _columnIndexOfUrl: Int = getColumnIndexOrThrow(_stmt, "url")</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _inputSize: Int = __mapKeySet.size</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _inputSize: Int = filterNewsIds.size</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _inputSize: Int = ids.size</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _inputSize_1: Int = filterTopicIds.size</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _itemKeyIndex: Int = 6</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _item_1: TopicEntity</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _item_2: PopulatedNewsResource</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _item_2: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _result: MutableList&lt;PopulatedNewsResource&gt; = mutableListOf()</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _result: MutableList&lt;String&gt; = mutableListOf()</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _sql: String = _stringBuilder.toString()</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _stmt: SQLiteStatement = _connection.prepare(_sql)</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _stringBuilder: StringBuilder = StringBuilder()</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmp: Int = if (useFilterNewsIds) 1 else 0</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpContent: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpEntity: NewsResourceEntity</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpHeaderImageUrl: String?</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpId: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpImageUrl: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpKey: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpKey_1: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpLongDescription: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpName: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpPublishDate: Instant</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpRelation: MutableList&lt;TopicEntity&gt;? = _map.get(_tmpKey)</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpShortDescription: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpTitle: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpTopicsCollection: MutableList&lt;TopicEntity&gt;</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpType: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmpUrl: String</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmp_1: Int = if (useFilterTopicIds) 1 else 0</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmp_2: Long?</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$val _tmp_3: Instant? = __instantConverter.longToInstant(_tmp_2)</ID>
+    <ID>VariableNaming:NewsResourceDao_Impl.kt:NewsResourceDao_Impl$var _argIndex: Int = 1</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$private val __db: RoomDatabase</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$private val __insertAdapterOfNewsResourceFtsEntity: EntityInsertAdapter&lt;NewsResourceFtsEntity&gt;</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$val _item: String</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$val _result: Int</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$val _result: MutableList&lt;String&gt; = mutableListOf()</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$val _sql: String = "SELECT count(*) FROM newsResourcesFts"</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$val _sql: String = "SELECT newsResourceId FROM newsResourcesFts WHERE newsResourcesFts MATCH ?"</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$val _stmt: SQLiteStatement = _connection.prepare(_sql)</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$val _tmp: Int</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$val _tmp: String</ID>
+    <ID>VariableNaming:NewsResourceFtsDao_Impl.kt:NewsResourceFtsDao_Impl$var _argIndex: Int = 1</ID>
+    <ID>VariableNaming:NiaDatabase_Impl.kt:NiaDatabase_Impl$val _autoMigrationSpecsSet: MutableSet&lt;KClass&lt;out AutoMigrationSpec&gt;&gt; = mutableSetOf()</ID>
+    <ID>VariableNaming:NiaDatabase_Impl.kt:NiaDatabase_Impl$val _autoMigrations: MutableList&lt;Migration&gt; = mutableListOf()</ID>
+    <ID>VariableNaming:NiaDatabase_Impl.kt:NiaDatabase_Impl$val _openDelegate: RoomOpenDelegate = object : RoomOpenDelegate(14, "51271b81bde7c7997d67fb23c8f31780", "744fde9c43f1ee14403ce4239fdf97b5") { public override fun createAllTables(connection: SQLiteConnection) { connection.execSQL("CREATE TABLE IF NOT EXISTS `news_resources` (`id` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL, `url` TEXT NOT NULL, `header_image_url` TEXT, `publish_date` INTEGER NOT NULL, `type` TEXT NOT NULL, PRIMARY KEY(`id`))") connection.execSQL("CREATE TABLE IF NOT EXISTS `news_resources_topics` (`news_resource_id` TEXT NOT NULL, `topic_id` TEXT NOT NULL, PRIMARY KEY(`news_resource_id`, `topic_id`), FOREIGN KEY(`news_resource_id`) REFERENCES `news_resources`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`topic_id`) REFERENCES `topics`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )") connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_topics_news_resource_id` ON `news_resources_topics` (`news_resource_id`)") connection.execSQL("CREATE INDEX IF NOT EXISTS `index_news_resources_topics_topic_id` ON `news_resources_topics` (`topic_id`)") connection.execSQL("CREATE VIRTUAL TABLE IF NOT EXISTS `newsResourcesFts` USING FTS4(`newsResourceId` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL)") connection.execSQL("CREATE TABLE IF NOT EXISTS `topics` (`id` TEXT NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL DEFAULT '', `url` TEXT NOT NULL DEFAULT '', `imageUrl` TEXT NOT NULL DEFAULT '', PRIMARY KEY(`id`))") connection.execSQL("CREATE VIRTUAL TABLE IF NOT EXISTS `topicsFts` USING FTS4(`topicId` TEXT NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL)") connection.execSQL("CREATE TABLE IF NOT EXISTS `recentSearchQueries` (`query` TEXT NOT NULL, `queriedDate` INTEGER NOT NULL, PRIMARY KEY(`query`))") connection.execSQL("CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)") connection.execSQL("INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '51271b81bde7c7997d67fb23c8f31780')") } public override fun dropAllTables(connection: SQLiteConnection) { connection.execSQL("DROP TABLE IF EXISTS `news_resources`") connection.execSQL("DROP TABLE IF EXISTS `news_resources_topics`") connection.execSQL("DROP TABLE IF EXISTS `newsResourcesFts`") connection.execSQL("DROP TABLE IF EXISTS `topics`") connection.execSQL("DROP TABLE IF EXISTS `topicsFts`") connection.execSQL("DROP TABLE IF EXISTS `recentSearchQueries`") } public override fun onCreate(connection: SQLiteConnection) { } public override fun onOpen(connection: SQLiteConnection) { connection.execSQL("PRAGMA foreign_keys = ON") internalInitInvalidationTracker(connection) } public override fun onPreMigrate(connection: SQLiteConnection) { dropFtsSyncTriggers(connection) } public override fun onPostMigrate(connection: SQLiteConnection) { } public override fun onValidateSchema(connection: SQLiteConnection): RoomOpenDelegate.ValidationResult { val _columnsNewsResources: MutableMap&lt;String, TableInfo.Column&gt; = mutableMapOf() _columnsNewsResources.put("id", TableInfo.Column("id", "TEXT", true, 1, null, TableInfo.CREATED_FROM_ENTITY)) _columnsNewsResources.put("title", TableInfo.Column("title", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY)) _columnsNewsResources.put("content", TableInfo.Column("content", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY)) _columnsNewsResources.put("url", TableInfo.Column("url", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY)) _columnsNewsResources.put("header_image_url", TableInfo.Column("header_image_url", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY)) _columnsNewsResources.put("publish_date", TableInfo.Column("publish_date", "INTEGER", true, 0, null, TableInfo.CREATED_FROM_ENTITY)) _columnsNewsResources.put("type", TableInfo.Column("type", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY)) val _foreignKeysNewsResources: MutableSet&lt;TableInfo.ForeignKey&gt; = mutableSetOf() val _indicesNewsResources: MutableSet&lt;TableInfo.Index&gt; = mutableSetOf() val _infoNewsResources: TableInfo = TableInfo("news_resources", _columnsNewsResources, _foreignKeysNewsResources, _indicesNewsResources) val _existingNewsResources: TableInfo = tableInfoRead(connection, "news_resources") if (!_infoNewsResources.equals(_existingNewsResources)) { return RoomOpenDelegate.ValidationResult(false, """ |news_resources(com.google.samples.apps.nowinandroid.core.database.model.NewsResourceEntity). | Expected: |""".trimMargin() + _infoNewsResources + """ | | Found: |""".trimMargin() + _existingNewsResources) } val _columnsNewsResourcesTopics: MutableMap&lt;String, TableInfo.Column&gt; = mutableMapOf() _columnsNewsResourcesTopics.put("news_resource_id", TableInfo.Column("news_resource_id", "TEXT", true, 1, null, TableInfo.CREATED_FROM_ENTITY)) _columnsNewsResourcesTopics.put("topic_id", TableInfo.Column("topic_id", "TEXT", true, 2, null, TableInfo.CREATED_FROM_ENTITY)) val _foreignKeysNewsResourcesTopics: MutableSet&lt;TableInfo.ForeignKey&gt; = mutableSetOf() _foreignKeysNewsResourcesTopics.add(TableInfo.ForeignKey("news_resources", "CASCADE", "NO ACTION", listOf("news_resource_id"), listOf("id"))) _foreignKeysNewsResourcesTopics.add(TableInfo.ForeignKey("topics", "CASCADE", "NO ACTION", listOf("topic_id"), listOf("id"))) val _indicesNewsResourcesTopics: MutableSet&lt;TableInfo.Index&gt; = mutableSetOf() _indicesNewsResourcesTopics.add(TableInfo.Index("index_news_resources_topics_news_resource_id", false, listOf("news_resource_id"), listOf("ASC"))) _indicesNewsResourcesTopics.add(TableInfo.Index("index_news_resources_topics_topic_id", false, listOf("topic_id"), listOf("ASC"))) val _infoNewsResourcesTopics: TableInfo = TableInfo("news_resources_topics", _columnsNewsResourcesTopics, _foreignKeysNewsResourcesTopics, _indicesNewsResourcesTopics) val _existingNewsResourcesTopics: TableInfo = tableInfoRead(connection, "news_resources_topics") if (!_infoNewsResourcesTopics.equals(_existingNewsResourcesTopics)) { return RoomOpenDelegate.ValidationResult(false, """ |news_resources_topics(com.google.samples.apps.nowinandroid.core.database.model.NewsResourceTopicCrossRef). | Expected: |""".trimMargin() + _infoNewsResourcesTopics + """ | | Found: |""".trimMargin() + _existingNewsResourcesTopics) } val _columnsNewsResourcesFts: MutableSet&lt;String&gt; = mutableSetOf() _columnsNewsResourcesFts.add("newsResourceId") _columnsNewsResourcesFts.add("title") _columnsNewsResourcesFts.add("content") val _infoNewsResourcesFts: FtsTableInfo = FtsTableInfo("newsResourcesFts", _columnsNewsResourcesFts, "CREATE VIRTUAL TABLE IF NOT EXISTS `newsResourcesFts` USING FTS4(`newsResourceId` TEXT NOT NULL, `title` TEXT NOT NULL, `content` TEXT NOT NULL)") val _existingNewsResourcesFts: FtsTableInfo = ftsTableInfoRead(connection, "newsResourcesFts") if (!_infoNewsResourcesFts.equals(_existingNewsResourcesFts)) { return RoomOpenDelegate.ValidationResult(false, """ |newsResourcesFts(com.google.samples.apps.nowinandroid.core.database.model.NewsResourceFtsEntity). | Expected: |""".trimMargin() + _infoNewsResourcesFts + """ | | Found: |""".trimMargin() + _existingNewsResourcesFts) } val _columnsTopics: MutableMap&lt;String, TableInfo.Column&gt; = mutableMapOf() _columnsTopics.put("id", TableInfo.Column("id", "TEXT", true, 1, null, TableInfo.CREATED_FROM_ENTITY)) _columnsTopics.put("name", TableInfo.Column("name", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY)) _columnsTopics.put("shortDescription", TableInfo.Column("shortDescription", "TEXT", true, 0, null, TableInfo.CREATED_FROM_ENTITY)) _columnsTopics.put("longDescription", TableInfo.Column("longDescription", "TEXT", true, 0, "''", TableInfo.CREATED_FROM_ENTITY)) _columnsTopics.put("url", TableInfo.Column("url", "TEXT", true, 0, "''", TableInfo.CREATED_FROM_ENTITY)) _columnsTopics.put("imageUrl", TableInfo.Column("imageUrl", "TEXT", true, 0, "''", TableInfo.CREATED_FROM_ENTITY)) val _foreignKeysTopics: MutableSet&lt;TableInfo.ForeignKey&gt; = mutableSetOf() val _indicesTopics: MutableSet&lt;TableInfo.Index&gt; = mutableSetOf() val _infoTopics: TableInfo = TableInfo("topics", _columnsTopics, _foreignKeysTopics, _indicesTopics) val _existingTopics: TableInfo = tableInfoRead(connection, "topics") if (!_infoTopics.equals(_existingTopics)) { return RoomOpenDelegate.ValidationResult(false, """ |topics(com.google.samples.apps.nowinandroid.core.database.model.TopicEntity). | Expected: |""".trimMargin() + _infoTopics + """ | | Found: |""".trimMargin() + _existingTopics) } val _columnsTopicsFts: MutableSet&lt;String&gt; = mutableSetOf() _columnsTopicsFts.add("topicId") _columnsTopicsFts.add("name") _columnsTopicsFts.add("shortDescription") _columnsTopicsFts.add("longDescription") val _infoTopicsFts: FtsTableInfo = FtsTableInfo("topicsFts", _columnsTopicsFts, "CREATE VIRTUAL TABLE IF NOT EXISTS `topicsFts` USING FTS4(`topicId` TEXT NOT NULL, `name` TEXT NOT NULL, `shortDescription` TEXT NOT NULL, `longDescription` TEXT NOT NULL)") val _existingTopicsFts: FtsTableInfo = ftsTableInfoRead(connection, "topicsFts") if (!_infoTopicsFts.equals(_existingTopicsFts)) { return RoomOpenDelegate.ValidationResult(false, """ |topicsFts(com.google.samples.apps.nowinandroid.core.database.model.TopicFtsEntity). | Expected: |""".trimMargin() + _infoTopicsFts + """ | | Found: |""".trimMargin() + _existingTopicsFts) } val _columnsRecentSearchQueries: MutableMap&lt;String, TableInfo.Column&gt; = mutableMapOf() _columnsRecentSearchQueries.put("query", TableInfo.Column("query", "TEXT", true, 1, null, TableInfo.CREATED_FROM_ENTITY)) _columnsRecentSearchQueries.put("queriedDate", TableInfo.Column("queriedDate", "INTEGER", true, 0, null, TableInfo.CREATED_FROM_ENTITY)) val _foreignKeysRecentSearchQueries: MutableSet&lt;TableInfo.ForeignKey&gt; = mutableSetOf() val _indicesRecentSearchQueries: MutableSet&lt;TableInfo.Index&gt; = mutableSetOf() val _infoRecentSearchQueries: TableInfo = TableInfo("recentSearchQueries", _columnsRecentSearchQueries, _foreignKeysRecentSearchQueries, _indicesRecentSearchQueries) val _existingRecentSearchQueries: TableInfo = tableInfoRead(connection, "recentSearchQueries") if (!_infoRecentSearchQueries.equals(_existingRecentSearchQueries)) { return RoomOpenDelegate.ValidationResult(false, """ |recentSearchQueries(com.google.samples.apps.nowinandroid.core.database.model.RecentSearchQueryEntity). | Expected: |""".trimMargin() + _infoRecentSearchQueries + """ | | Found: |""".trimMargin() + _existingRecentSearchQueries) } return RoomOpenDelegate.ValidationResult(true, null) } }</ID>
+    <ID>VariableNaming:NiaDatabase_Impl.kt:NiaDatabase_Impl$val _shadowTablesMap: MutableMap&lt;String, String&gt; = mutableMapOf()</ID>
+    <ID>VariableNaming:NiaDatabase_Impl.kt:NiaDatabase_Impl$val _typeConvertersMap: MutableMap&lt;KClass&lt;*&gt;, List&lt;KClass&lt;*&gt;&gt;&gt; = mutableMapOf()</ID>
+    <ID>VariableNaming:NiaDatabase_Impl.kt:NiaDatabase_Impl$val _viewTables: MutableMap&lt;String, Set&lt;String&gt;&gt; = mutableMapOf()</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$private val __db: RoomDatabase</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$private val __instantConverter: InstantConverter = InstantConverter()</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$private val __upsertAdapterOfRecentSearchQueryEntity: EntityUpsertAdapter&lt;RecentSearchQueryEntity&gt;</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _columnIndexOfQueriedDate: Int = getColumnIndexOrThrow(_stmt, "queriedDate")</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _columnIndexOfQuery: Int = getColumnIndexOrThrow(_stmt, "query")</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _item: RecentSearchQueryEntity</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _result: MutableList&lt;RecentSearchQueryEntity&gt; = mutableListOf()</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _sql: String = "DELETE FROM recentSearchQueries"</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _sql: String = "SELECT * FROM recentSearchQueries ORDER BY queriedDate DESC LIMIT ?"</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _stmt: SQLiteStatement = _connection.prepare(_sql)</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _tmp: Long?</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _tmpQueriedDate: Instant</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _tmpQuery: String</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$val _tmp_1: Instant? = __instantConverter.longToInstant(_tmp)</ID>
+    <ID>VariableNaming:RecentSearchQueryDao_Impl.kt:RecentSearchQueryDao_Impl$var _argIndex: Int = 1</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$private val __db: RoomDatabase</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$private val __insertAdapterOfTopicEntity: EntityInsertAdapter&lt;TopicEntity&gt;</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$private val __upsertAdapterOfTopicEntity: EntityUpsertAdapter&lt;TopicEntity&gt;</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _columnIndexOfId: Int = getColumnIndexOrThrow(_stmt, "id")</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _columnIndexOfImageUrl: Int = getColumnIndexOrThrow(_stmt, "imageUrl")</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _columnIndexOfLongDescription: Int = getColumnIndexOrThrow(_stmt, "longDescription")</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _columnIndexOfName: Int = getColumnIndexOrThrow(_stmt, "name")</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _columnIndexOfShortDescription: Int = getColumnIndexOrThrow(_stmt, "shortDescription")</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _columnIndexOfUrl: Int = getColumnIndexOrThrow(_stmt, "url")</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _inputSize: Int = ids.size</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _item: TopicEntity</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _item_1: TopicEntity</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _result: List&lt;Long&gt; = __insertAdapterOfTopicEntity.insertAndReturnIdsList(_connection, topicEntities)</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _result: MutableList&lt;TopicEntity&gt; = mutableListOf()</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _result: TopicEntity</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _sql: String = """ | | SELECT * FROM topics | WHERE id = ? | """.trimMargin()</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _sql: String = "SELECT * FROM topics"</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _sql: String = _stringBuilder.toString()</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _stmt: SQLiteStatement = _connection.prepare(_sql)</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _stringBuilder: StringBuilder = StringBuilder()</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _tmpId: String</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _tmpImageUrl: String</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _tmpLongDescription: String</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _tmpName: String</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _tmpShortDescription: String</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$val _tmpUrl: String</ID>
+    <ID>VariableNaming:TopicDao_Impl.kt:TopicDao_Impl$var _argIndex: Int = 1</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$private val __db: RoomDatabase</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$private val __insertAdapterOfTopicFtsEntity: EntityInsertAdapter&lt;TopicFtsEntity&gt;</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$val _item: String</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$val _result: Int</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$val _result: MutableList&lt;String&gt; = mutableListOf()</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$val _sql: String = "SELECT count(*) FROM topicsFts"</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$val _sql: String = "SELECT topicId FROM topicsFts WHERE topicsFts MATCH ?"</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$val _stmt: SQLiteStatement = _connection.prepare(_sql)</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$val _tmp: Int</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$val _tmp: String</ID>
+    <ID>VariableNaming:TopicFtsDao_Impl.kt:TopicFtsDao_Impl$var _argIndex: Int = 1</ID>
+  </CurrentIssues>
+</SmellBaseline>

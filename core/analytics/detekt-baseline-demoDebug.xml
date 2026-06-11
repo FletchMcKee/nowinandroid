@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>AbstractClassCanBeInterface:AnalyticsModule.kt:AnalyticsModule$AnalyticsModule</ID>
+    <ID>UtilityClassWithPublicConstructor:AnalyticsEvent.kt:AnalyticsEvent$ParamKeys</ID>
+    <ID>UtilityClassWithPublicConstructor:AnalyticsEvent.kt:AnalyticsEvent$Types</ID>
+  </CurrentIssues>
+</SmellBaseline>

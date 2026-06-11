@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>ForbiddenComment:NiaApp.kt:// TODO: Settings should be a dialog screen</ID>
+    <ID>ForbiddenComment:NiaApp.kt:// TODO: We may want to add padding or spacer when the snackbar is shown so that</ID>
+    <ID>LongMethod:MainActivity.kt:MainActivity$override fun onCreate</ID>
+    <ID>LongMethod:NiaApp.kt:@Composable @OptIn( ExperimentalMaterial3Api::class, ExperimentalComposeUiApi::class, ExperimentalMaterial3AdaptiveApi::class, ) internal fun NiaApp</ID>
+    <ID>MagicNumber:NiaApp.kt:.45f</ID>
+    <ID>MaxLineLength:NiaAppState.kt:NiaAppState$.</ID>
+    <ID>NoNameShadowing:NiaAppState.kt:NiaAppState${ !it.hasBeenViewed }</ID>
+  </CurrentIssues>
+</SmellBaseline>

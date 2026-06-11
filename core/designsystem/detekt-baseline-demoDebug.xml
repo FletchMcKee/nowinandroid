@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>CyclomaticComplexMethod:Scrollbar.kt:@Composable fun Scrollbar</ID>
+    <ID>CyclomaticComplexMethod:Theme.kt:@Composable fun NiaTheme</ID>
+    <ID>ForbiddenComment:AppScrollbars.kt:// TODO: This lint is removed in 1.6 as the recommendation has changed</ID>
+    <ID>ForbiddenComment:Button.kt:NiaButtonDefaults$// TODO: File bug</ID>
+    <ID>ForbiddenComment:Chip.kt:NiaChipDefaults$// TODO: File bug</ID>
+    <ID>ForbiddenComment:IconButton.kt:// TODO: File bug</ID>
+    <ID>ForbiddenComment:IconButton.kt:NiaIconButtonDefaults$// TODO: File bug</ID>
+    <ID>ForbiddenComment:Tag.kt:NiaTagDefaults$// TODO: File bug</ID>
+    <ID>ForbiddenComment:ViewToggle.kt:NiaViewToggleDefaults$// TODO: File bug</ID>
+    <ID>LongMethod:LoadingWheel.kt:@Composable fun NiaLoadingWheel</ID>
+    <ID>LongMethod:Scrollbar.kt:@Composable fun Scrollbar</ID>
+    <ID>MagicNumber:AppScrollbars.kt:0.5f</ID>
+    <ID>MagicNumber:Background.kt:0.2552f</ID>
+    <ID>MagicNumber:Background.kt:0.724f</ID>
+    <ID>MagicNumber:Background.kt:11.06</ID>
+    <ID>MagicNumber:LoadingWheel.kt:4</ID>
+    <ID>MatchingDeclarationName:Background.kt:BackgroundTheme</ID>
+    <ID>MatchingDeclarationName:Gradient.kt:GradientColors</ID>
+    <ID>MatchingDeclarationName:Tint.kt:TintTheme</ID>
+    <ID>ReturnCount:LazyScrollbarUtilities.kt:internal inline fun &lt;LazyState : ScrollableState, LazyStateItem&gt; LazyState.interpolateFirstItemIndex: Float</ID>
+    <ID>SwallowedException:Scrollbar.kt:e: TimeoutCancellationException</ID>
+    <ID>TopLevelPropertyNaming:AppScrollbars.kt:/** * The time period for showing the scrollbar thumb after interacting with it, before it fades away */ private const val SCROLLBAR_INACTIVE_TO_DORMANT_TIME_IN_MS = 2_000L</ID>
+    <ID>TopLevelPropertyNaming:LoadingWheel.kt:private const val NUM_OF_LINES = 12</ID>
+    <ID>TopLevelPropertyNaming:LoadingWheel.kt:private const val ROTATION_TIME = 12000</ID>
+    <ID>TopLevelPropertyNaming:Scrollbar.kt:/** * The delay between scrolls when a user long presses on the scrollbar track to initiate a scroll * instead of dragging the scrollbar thumb. */ private const val SCROLLBAR_PRESS_DELAY_MS = 10L</ID>
+    <ID>TopLevelPropertyNaming:Scrollbar.kt:/** * The percentage displacement of the scrollbar when scrolled by long presses on the scrollbar * track. */ private const val SCROLLBAR_PRESS_DELTA_PCT = 0.02f</ID>
+    <ID>UnsafeCallOnNullableType:AppScrollbars.kt:ScrollThumbNode$lastOutline!!</ID>
+  </CurrentIssues>
+</SmellBaseline>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>TopLevelPropertyNaming:SettingsDialog.kt:private const val BRAND_GUIDELINES_URL = "https://developer.android.com/distribute/marketing-tools/brand-guidelines"</ID>
+    <ID>TopLevelPropertyNaming:SettingsDialog.kt:private const val FEEDBACK_URL = "https://goo.gle/nia-app-feedback"</ID>
+    <ID>TopLevelPropertyNaming:SettingsDialog.kt:private const val PRIVACY_POLICY_URL = "https://policies.google.com/privacy"</ID>
+  </CurrentIssues>
+</SmellBaseline>
