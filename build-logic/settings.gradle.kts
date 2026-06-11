@@ -16,6 +16,11 @@
 
 pluginManagement {
     repositories {
+        mavenLocal {
+            content {
+                includeGroup("dev.detekt")
+            }
+        }
         gradlePluginPortal()
         google()
     }
@@ -23,6 +28,11 @@ pluginManagement {
 
 dependencyResolutionManagement {
     repositories {
+        mavenLocal {
+            content {
+                includeGroup("dev.detekt")
+            }
+        }
         google {
             content {
                 includeGroupByRegex("com\\.android.*")

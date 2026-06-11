@@ -17,6 +17,11 @@
 pluginManagement {
     includeBuild("build-logic")
     repositories {
+        mavenLocal {
+            content {
+                includeGroup("dev.detekt")
+            }
+        }
         google {
             content {
                 includeGroupByRegex("com\\.android.*")
@@ -32,6 +37,11 @@ pluginManagement {
 dependencyResolutionManagement {
     repositoriesMode = RepositoriesMode.FAIL_ON_PROJECT_REPOS
     repositories {
+        mavenLocal {
+            content {
+                includeGroup("dev.detekt")
+            }
+        }
         google {
             content {
                 includeGroupByRegex("com\\.android.*")
